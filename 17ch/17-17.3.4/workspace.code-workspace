@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitHub/Python/DS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../GitHub/DL-from-scratch-in-KV/deep-learning-from-scratch-master/ch03/presentation"
+		},
+		{
+			"path": "../../../GitHub4/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow-2nd-Edition"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
